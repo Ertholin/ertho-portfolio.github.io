@@ -373,6 +373,10 @@ section .heading h2
 {
 	color: #d82c2e;
 	font-style: italic;
+	font-size: 1.5rem;
+}
+#myCarousel .carousel-item h4{
+	font-size: 1rem;
 }
 
 /*FOOTER*/
